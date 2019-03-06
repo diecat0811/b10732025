@@ -1,0 +1,19 @@
+body {
+  background-color: powderblue;
+  font-family:courier;
+}
+h1 {
+  color: powderblue;
+}
+p {
+  color: tomato;
+  font-family:courier;
+}
+#p01{
+	color: orange;
+	font-family:courier;
+}
+p.error {
+  color: slateblue;
+  font-family:courier;
+}
